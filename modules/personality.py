@@ -35,7 +35,7 @@ class PersonalityMixin(ModuleMixin):
                     },
                    {'words': ['juego', 'juegos', 'videojuego', 'viedojuegos'],
                     'action': '',
-                    'speak': '¡Me enctanta Hollywood Monsters! Y ¿sabés qué? Conozco un chico al que le hicieron una '
+                    'speak': '¡Me encanta Hollywood Monsters! Y ¿sabés qué? Conozco un chico al que le hicieron una '
                              'felicitación de cumpleaños de Hollywood Monsters. ¡Qué afortunado!',
                     'orders': None,
                     },
@@ -58,7 +58,7 @@ class PersonalityMixin(ModuleMixin):
                     },
                    {'words': ['animal', 'animales'],
                     'action': '',
-                    'speak': 'Me gustan muchos los grandes felinos, pero mi animal preferido es una perra que se llama'
+                    'speak': 'Me gustan mucho los grandes felinos, pero mi animal preferido es una perra que se llama'
                              ' Arale.',
                     'orders': None,
                     },
