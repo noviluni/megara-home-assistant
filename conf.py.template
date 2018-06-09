@@ -1,0 +1,11 @@
+GOOGLE_KNOWLEDGE_API_KEY = ''
+
+WUNDERGROUND_API_KEY = ''
+
+BULB_IP = ''  # Xiaomi Yeelight bulb ip. If you don't have it leave it blank.
+
+TV_IP = ''  # Sony Bravia TV ip. If you don't have TV leave it blank.
+TV_PIN = ''  # Sony Bravia TV pin.
+
+ACTIVE_MODULES = ['computer', 'more', 'organization', 'weather', 'personality', 'yeelight']  # Inverse priority?
+
