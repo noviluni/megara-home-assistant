@@ -26,16 +26,3 @@ from megara import Assistant
 
 This Assistant class works in the same way that Assistant from [voice_assistant](https://github.com/noviluni/voice_assistant), but it implements automatically new behaviours coming from "modules."
 
-For example
-
- 
-
-
-
-### How to build a custom module
-
-When
-
-The idea behind a module is to add 
-
-To build a module you have to create a file inside modules 
