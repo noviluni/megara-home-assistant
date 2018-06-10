@@ -12,10 +12,6 @@ python3 demo.py
 Of course, you need before to install the requirements.
 
 
-### Requirements
-...
-
-
 ### How to use
 
 To use Megara, you just have to import the Assistant class from megara, in the same way you should do it using voice_assistant library.
