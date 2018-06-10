@@ -1,8 +1,8 @@
-from megara_ml import Assistant
+from megara_ml import MLAssistant
 
 
 if __name__ == '__main__':
-    megara = Assistant(language='es')
+    megara = MLAssistant(language='es')
 
     while True:
         input()

@@ -116,7 +116,7 @@ class Assistant(_Assistant):
 
     def close(self):
         try:
-            self.connexion.close()  # TODO: Change to work with the new database system.
+            self.database.connexion.close()
         except Exception:
             pass
         exit()
