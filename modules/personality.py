@@ -109,7 +109,7 @@ class PersonalityMixin(ModuleMixin):
                'speak': 'Lo siento, no puedo cantar.',
                'orders': None,
                },
-              {'words': ['aburrido'],
+              {'words': ['aburrido', 'me aburro'],
                'action': '',
                'speak': '¿Quieres que te ayude a matar el tiempo? Puedes cambiarme el nombre o preguntarme por mis '
                         'gustos. Próximamente podrás jugar conmigo.',
